@@ -1,3 +1,5 @@
+Repository moved to [cargo-aoc/aoc-runner](https://github.com/gobanos/cargo-aoc/tree/v0.3/aoc-runner)
+
 # Advent of Code Runner
 
 This is a simple project that aims to be a runner for the [Advent of Code](https://adventofcode.com). 
